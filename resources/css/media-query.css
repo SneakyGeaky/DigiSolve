@@ -128,7 +128,7 @@
     }
 }
 
-@media only screen and (max-width: 350px) {
+@media only screen and (max-width: 400px) {
 
     .about__section__left__box > h1 {
         text-align: center;
