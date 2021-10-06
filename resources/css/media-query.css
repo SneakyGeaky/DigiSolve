@@ -9,6 +9,15 @@
     .about__section__right__box {
         margin-top: -65%;
     }
+
+    .about__section__left__box > h1 {
+        text-align: center;
+        font-size: 5.2vh;
+    }
+
+    .package__box__price > p > span {
+        margin-left: -2%;
+    }
 }
 
 
@@ -70,14 +79,6 @@
         font-size: 150%;
     }
 
-    .about__section__left__box > h1 {
-        text-align: center;
-        font-size: 5.2vh;
-    }
-
-    .package__box__price > p > span {
-        margin-left: -2%;
-    }
 
     .span_1_of_4 {
         width: 50%;
