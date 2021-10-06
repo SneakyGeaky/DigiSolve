@@ -70,6 +70,15 @@
         font-size: 150%;
     }
 
+    .about__section__left__box > h1 {
+        text-align: center;
+        font-size: 5.2vh;
+    }
+
+    .package__box__price > p > span {
+        margin-left: -2%;
+    }
+
     .span_1_of_4 {
         width: 50%;
     }
@@ -125,17 +134,5 @@
 
     .footer__text {
         margin-top: -10%;
-    }
-}
-
-@media only screen and (max-width: 400px) {
-
-    .about__section__left__box > h1 {
-        text-align: center;
-        font-size: 5.2vh;
-    }
-
-    .package__box__price > p > span {
-        margin-left: -2%;
     }
 }
