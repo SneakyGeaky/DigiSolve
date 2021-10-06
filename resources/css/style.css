@@ -350,9 +350,6 @@ header > nav > ul > li:hover {
 .package__box__price, .package__contents, .signup {
 	margin-bottom: 3vh;
 	padding: 4vh 8vh 5% 5%;
-	/* padding-bottom: 8vh;
-	padding-left: 5%;
-	padding-right: 5%; */
 	border-bottom: 2px solid #F5F5F5;
 	text-align: justify;
 }

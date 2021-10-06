@@ -127,3 +127,15 @@
         margin-top: -10%;
     }
 }
+
+@media only screen and (max-width: 350px) {
+
+    .about__section__left__box > h1 {
+        text-align: center;
+        font-size: 5.2vh;
+    }
+
+    .package__box__price > p > span {
+        margin-left: -2%;
+    }
+}
