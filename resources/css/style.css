@@ -12,6 +12,18 @@ html, body {
 	font-family: 'Work Sans', 'Arial', sans-serif;
 }
 
+h1 {
+	font-size: 32px;
+}
+
+h2 {
+	font-size: 26px;
+}
+
+p {
+ font-size: 16px;
+}
+
 .row {
 	max-width: 80.21875%;
 	margin: auto;
